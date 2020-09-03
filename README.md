@@ -8,5 +8,6 @@
 - 👨‍🚀 Extraverted, Intuition, Thinking, Perception - Assertive Debater [ENTP-A](https://www.16personalities.com/entp-personality)
 - 🤠 Fun fact: I play 6 instruments 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=felpsisonfire&theme=tokyonight" />
 
 
