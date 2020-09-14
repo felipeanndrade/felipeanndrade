@@ -1,6 +1,6 @@
 ### Alou 👋
 
-- 👨‍💻 I’m currently learning [Flutter](https://github.com/flutter/flutter) Mobile Development
+- 👨‍💻 I’m currently learning [Flutter](https://github.com/flutter/flutter)
 - 💬 Ask me about basic and intermediate programming concepts, C++, Python and Linux Enviroment
 - 📫 How to reach me: felipeanndrade@ufrn.edu.br, [Linkedin Profile](https://www.linkedin.com/in/felpsisonfire/)
 - 😄 Pronouns: he/him, он/ему, ele/dele, 他
