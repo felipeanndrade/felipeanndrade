@@ -6,4 +6,3 @@
 - 😄 Pronouns: he/him, он/ему, ele/dele, 他
 - 👨‍🔬 Studying Science and Technology
 - 👨‍🚀 Extraverted, Intuition, Thinking, Perception - Assertive Debater [ENTP-A](https://www.16personalities.com/entp-personality)
-- 🤠 Fun fact: I play 6 instruments 
