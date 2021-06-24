@@ -1,6 +1,6 @@
 ### Alou 👋
 
-- 👨‍💻 I’m currently working with [Flutter](https://github.com/flutter/flutter)
+- 👨‍💻 I’m a [Flutter](https://github.com/flutter/flutter) developer
 - 📫 How to reach me: felipeanndrade@gmail.com, [Linkedin Profile](https://www.linkedin.com/in/felpsisonfire/)
 - 😄 Pronouns: he/him, ele/dele
 - 👨‍🔬 Studying Science and Technology
