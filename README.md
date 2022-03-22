@@ -4,3 +4,4 @@
 - 📫 How to reach me: felipeanndrade@gmail.com, [Linkedin Profile](https://www.linkedin.com/in/felpsisonfire/)
 - 👨‍🔬 Studying Science and Technology
 - 🧑‍🚀 Interested in Self Driven Cars, Space Exploration, Galaxy Dynamics and Neuroscience
+- PT_BR, EN, JP
