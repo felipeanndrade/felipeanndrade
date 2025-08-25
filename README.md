@@ -1,5 +1,5 @@
 ### Hi, I'm Felps 🐈‍⬛
 
-- 👨‍💻 Neuroscientist undergrad 🧠 self-taught Software Engineer, language/technology agnostic. 
-- \- Not editor agnostic -. Use vim. 🐊
+- Messing with brains, sleep, and memories. I can develop anything that you want. 
+- \- Not editor agnostic -. Use Neovim. 🐊
 - 📫 felipeanndrade@gmail.com
