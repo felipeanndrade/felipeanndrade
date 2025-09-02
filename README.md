@@ -1,5 +1,6 @@
-### Hi, I'm Felps 🐈‍⬛
+### I'm Felipe 🐈‍⬛
 
-- Messing with brains, sleep, and memories. I can develop anything that you want. 
+## Renaissance Computer Biomedical Neuroscientist Engineer Scientist.
+Specialized in the disposable ontology redundancy of in vitro orthogonal derivative patterns.
 - Not editor agnostic. Use Neovim! 🐊
 - 📫 felipeanndrade@gmail.com
